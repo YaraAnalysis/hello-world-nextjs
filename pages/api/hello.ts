@@ -13,4 +13,3 @@ export default function handler(
   console.log(req.method);
   res.status(200).json({name : 'Yara Vasconcellos', idade : 47});
 }
-  
